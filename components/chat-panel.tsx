@@ -36,24 +36,24 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'What are the',
-      subheading: 'trending memecoins today?',
-      message: `What are the trending memecoins today?`
+      heading: 'Bagaimana ',
+      subheading: 'cuaca hari ini?',
+      message: `Bagaimana ramalan cuaca pada hari ini?`
     },
     {
-      heading: 'What is the price of',
-      subheading: '$DOGE right now?',
-      message: 'What is the price of $DOGE right now?'
+      heading: 'Bagaimana cara ',
+      subheading: 'membuat sebuah website?',
+      message: 'bagaimana membuat sebuah website?'
     },
     {
-      heading: 'I would like to buy',
-      subheading: '42 $DOGE',
-      message: `I would like to buy 42 $DOGE`
+      heading: 'Cara cepat memahami ',
+      subheading: 'bahasa pemrograman Javascript',
+      message: `Cara cepat memahami bahasa pemrograman JavaScript`
     },
     {
-      heading: 'What are some',
-      subheading: `recent events about $DOGE?`,
-      message: `What are some recent events about $DOGE?`
+      heading: 'Siapa itu',
+      subheading: `VECTORISM??`,
+      message: `VECTORISM? SIAPA ORANG DIBALIK NAMA ITU?`
     }
   ]
 
